@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    background-color: rgb(222, 217, 217);
+}
+.container{
+    width:800px;
+    background-color: #fff;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
